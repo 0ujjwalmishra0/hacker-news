@@ -1,63 +1,23 @@
-# Social App
+# Hacker News
 
-An app built using Flutter and Firebase which keeps track of Nutritional Content present in food.
-Using deep learning it identifies the food through images and then automatically fetches nutritional content present in the food.
+An app built using Flutter which pulls top ten stories from Hacker News Api
 
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/0ujjwalmishra0)
-
-
-## Features
-
- * Gets nutritional information of any food (present in USDA database)
-   * Search for food manually
-   * Upload picture of food through gallery/camera
- * Nutritional Information
-   * Carbohydrate
-   * Protein
-   * Fats
-   * Sugar
-   * Energy (Calories)
- * Graph which shows total calories consumed per day
-   * Follow / Unfollow Users
-   * Edit profile
- * Google SignIn
- * Update Basic Information
- * Multi-device login since all the data of user is saved in Firebase Database
- 
 
 
 # Screenshots
+1. Open App- Opening app and pulling news from HackerNews Api
+2. Open Url- Opening url by tapping on particular news
+3. Open Comments- Open comments associated with a particular news
+4. Open recently Visited News- Visited news are stored and can be accessed by floating action button,which updates to show total no. of visited news
+
+
 <p>
+<img width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/hacker-news/master/sample%20gifs/open%20app.gif" alt="Open App" >
+<img width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/hacker-news/master/sample%20gifs/open%20url.gif" alt="Open Url" >
 
-<img width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/fitness-app/master/screenshots/login.jpg" alt="Login Page" >
+<img width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/hacker-news/master/sample%20gifs/open%20comment.gif" alt="Open Comment" >
 
-<img width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/fitness-app/master/screenshots/signup.jpg" alt="Signup Page" >
-
-
-<img width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/fitness-app/master/screenshots/google_signin.jpg" alt="Google Sigin PopUp" >
-
-
-<img width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/fitness-app/master/screenshots/mealsPage.jpg" alt="Meals Page" >
-
-
-<img width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/fitness-app/master/screenshots/savedMeals.jpg" alt="Saved Meals" >
-
-<img width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/fitness-app/master/screenshots/savedMealsInfo.jpg" alt="Saved Meals Info" >
-
-
-<img width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/fitness-app/master/screenshots/addImage.jpg" alt="Add Image" >
-
-
-<img width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/fitness-app/master/screenshots/prediction.jpg" alt="Prediction" >
-
-<img width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/fitness-app/master/screenshots/mealsInfo.jpg" alt="Meals Info" >
-
-<img width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/fitness-app/master/screenshots/graph.jpg" alt="Graph" >
-
-<img width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/fitness-app/master/screenshots/basicInformation.jpg" alt="Basic Information" >
-
-<img width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/fitness-app/master/screenshots/profile.jpg" alt="Profile" >
-
+<img width="300" src="https://raw.githubusercontent.com/0ujjwalmishra0/hacker-news/master/sample%20gifs/visited%20page.gif" alt="Visited Page" >
 
 
 </p>
